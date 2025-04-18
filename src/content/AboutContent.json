@@ -1,0 +1,16 @@
+{
+  "title": "A solução rápida e eficiente para o seu parque",
+  "text": "Filas4Play é a ferramenta ideal para otimizar o gerenciamento de filas no seu parque, proporcionando mais eficiência e uma experiência melhor para os visitantes.",
+  "section": [
+    {
+      "title": "Por que escolher o Filas4Play?",
+      "content": "Filas4Play oferece uma interface simples e eficiente para o usuário, garantindo a usabilidade.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Benefícios dessa solução",
+      "content": "Com o Filas4Play, você melhora o atendimento, reduz o tempo de espera e oferece uma experiência mais agradável aos seus visitantes.",
+      "icon": "notes.svg"
+    }
+  ]
+}
